@@ -4,6 +4,8 @@ title: "Características de las chinchillas"
 author: "Unai Rodríguez Pérez"
 categories: journal
 tags: [documentation,sample]
+img: 
+path: https://comportamientode.com/wp-content/uploads/2021/02 comportamiento-de-la-chinchilla.jpg
 ---
 
 **Origen y Hábitat**
@@ -31,7 +33,7 @@ Las chinchillas son animales vivíparos. La hembra tiene un periodo de gestació
 Esperanza de vida:
 En la naturaleza, las chinchillas viven alrededor de 8 a 10 años, aunque en cautiverio pueden llegar a los 20 años, siempre que se les cuide adecuadamente.
 
-<img src="cuerpo-chinchilla.jpg" alt="características de la chinchilla">
+
 
 **Dieta y Comportamiento**
 
